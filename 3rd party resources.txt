@@ -1,0 +1,6 @@
+1. data structure visualizer https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+2. https://www.pdfdrive.com/ for free pdf's
+3. mycodeschool channel on youtube for data structures
+4. web dev simplified and dev ed channels on youtube for students interested in web development
+5. Bracket color pairing extension on vscode
+6. Rainbow csv color pairing extension on vscode
